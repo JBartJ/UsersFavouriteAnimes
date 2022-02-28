@@ -10,6 +10,7 @@ How to do this?
 5) Now you can use "import requests" in Python and use requests commands
 
 # Program description
+Jikan API (https://docs.api.jikan.moe/) was used in program.
 The main focus of the program is operations on the user's favorite animes.
 
 At the beginning user enters the username.
